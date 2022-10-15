@@ -6,10 +6,10 @@ To Check IP Address, Domain Names, Speed, Connectivity of Internet.Installation 
 # Basic Networking commands
 # Checking IP Address:
 # ipconfig
-
+![alt text](https://github.com/Niranjana05-cloud/Experiment-1/blob/main/A.png)
 
 # ipconfig/all
-
+![alt text](https://github.com/Niranjana05-cloud/Experiment-1/blob/main/B.png)
 
 # nslookup
 
